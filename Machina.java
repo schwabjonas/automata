@@ -55,7 +55,7 @@ public class Machina extends Application {
       }
       for (int i = 0; i < args.length; i++) {
         if(args[i].equals("--help")) {
-          System.out.println("Usage: SchwabJonasLab2 -cs [-q | -h][-r | -g | -l] --help");
+          System.out.println("Usage: Machina -cs [-q | -h][-r | -g | -l] --help");
           System.out.println(" -c  Sets cell size in number of Pixels. Default is 7.");
           System.out.println(" -s  Sets grid size in number of cells. Default is 71.");
           System.out.println(" -q  Creates quadrilateral (square) cells. Default.");
@@ -66,7 +66,7 @@ public class Machina extends Application {
       }
     } catch (Exception e) {
       System.err.println("Error: InvocationTargetException");
-      System.err.println("Error: 'java SchwabJonasLab2 --help");
+      System.err.println("Error: 'java Machina --help");
       System.err.println("Error: This will print how to use Langton's ant.");
       System.exit(0);
     }
