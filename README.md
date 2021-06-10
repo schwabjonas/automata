@@ -1,14 +1,14 @@
 # Automata
-Java program implementing Langton's Ant and Conway's Game of Life.
+Java program implementing generalized Langton's Ant and Conway's Game of Life.
 
-Ex 4: 
+Ex 1 (More Below): 
   - javac Machina.java
   - java Machina -h RSNUSRL
   - Produces:
 
   ![unnamed (2)](https://user-images.githubusercontent.com/83527286/121607439-df4d5800-ca04-11eb-91cb-c80659e8418f.png)
 
-Automata/Langton's Ant Background: 
+## Automata/Langton's Ant Background: 
 
 - Test Case Examples (Hexagonal Ant): https://docs.google.com/document/d/1LeGN1XDV3CkQ-48nOg89WBpwJroVcd_gXx5gqxBP04w/edit?usp=sharing
 
@@ -18,13 +18,15 @@ Automata/Langton's Ant Background:
 
 - Online Example (btmr.de): https://brtmr.de/2015/10/05/hexadecimal-langtons-ant-2.html
 
-To run this program you need to have java and javafx installed.
+###### To run this program you need to have java and javafx installed.
 
   - javac Machina.java
 
   - java Machina 
 
-Grid Specifications:
+## Instructions Needed to Run the Program:
+
+###### Grid Specifications:
 
   - -c  Sets cell size in number of Pixels. Default is 7.
  
@@ -32,7 +34,7 @@ Grid Specifications:
   
   - -b  Shows no boundary of cells.
   
-Boundary Conditions:
+###### Boundary Conditions:
   
   - -f Shows no movie of individual steps. Shows only the final picture.
   
@@ -42,7 +44,7 @@ Boundary Conditions:
   
   - -o Loops by restarting after ant touches edge.
   
-Types of ants:
+###### Types of ants:
   
   - -l Creates Game of Life on square grid.
   
@@ -52,22 +54,22 @@ Types of ants:
   
   - -h Creates black ant on hexagonal grid. Requires rotational string argument after.
   
-Test Case Examples:
+###### Test Case Examples:
 
-  Ex 1: 
+  Ex 2: 
   - javac Machina.java
   - java Machina -h RMUN
   - Produces: 
   <img width="408" alt="Screen Shot 2021-06-10 at 3 52 43 PM" src="https://user-images.githubusercontent.com/83527286/121606942-f0e23000-ca03-11eb-8d8f-81e54c0b2990.png">
   
-  Ex 2: 
+  Ex 3: 
   - javac Machina.java
   - java Machina -h SLSSS
   - Produces:
   
   ![unnamed (1)](https://user-images.githubusercontent.com/83527286/121607245-8bdb0a00-ca04-11eb-9cec-20a8dcf634db.png)
 
-  Ex 3: 
+  Ex 4: 
   - javac Machina.java
   - java Machina -h SLSSU
   - Produces:
