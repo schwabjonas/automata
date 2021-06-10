@@ -60,7 +60,7 @@ Ex 1 (More Below):
   - javac Machina.java
   - java Machina -h RMUN
   - Produces: 
-  <img width="408" alt="Screen Shot 2021-06-10 at 3 52 43 PM" src="https://user-images.githubusercontent.com/83527286/121606942-f0e23000-ca03-11eb-8d8f-81e54c0b2990.png">
+  <img width="500" alt="Screen Shot 2021-06-10 at 3 52 43 PM" src="https://user-images.githubusercontent.com/83527286/121606942-f0e23000-ca03-11eb-8d8f-81e54c0b2990.png">
   
   Ex 3: 
   - javac Machina.java
@@ -74,7 +74,7 @@ Ex 1 (More Below):
   - java Machina -h SLSSU
   - Produces:
 
-<img width="421" alt="Screen Shot 2021-06-10 at 4 01 37 PM" src="https://user-images.githubusercontent.com/83527286/121607647-43701c00-ca05-11eb-8f43-a93fb02279d2.png">
+<img width="500" alt="Screen Shot 2021-06-10 at 4 01 37 PM" src="https://user-images.githubusercontent.com/83527286/121607647-43701c00-ca05-11eb-8f43-a93fb02279d2.png">
 
 ## Test Case Examples (Square Ant):
 
@@ -83,7 +83,7 @@ Ex 1 (More Below):
   - java Machina
   - Produces:
 
-<img width="784" alt="Screen Shot 2021-06-10 at 4 14 51 PM" src="https://user-images.githubusercontent.com/83527286/121608742-63a0da80-ca07-11eb-86e5-fa4581da4052.png">
+<img width="500" alt="Screen Shot 2021-06-10 at 4 14 51 PM" src="https://user-images.githubusercontent.com/83527286/121608742-63a0da80-ca07-11eb-86e5-fa4581da4052.png">
 
 ## Test Case Examples (Game of Life):
 
@@ -92,4 +92,4 @@ Ex 1 (More Below):
   - java Machina -l
   - Produces (Random Each Time):
 
-<img width="781" alt="Screen Shot 2021-06-10 at 4 13 01 PM" src="https://user-images.githubusercontent.com/83527286/121608844-88954d80-ca07-11eb-926b-56a9a3139a45.png">
+<img width="500" alt="Screen Shot 2021-06-10 at 4 13 01 PM" src="https://user-images.githubusercontent.com/83527286/121608844-88954d80-ca07-11eb-926b-56a9a3139a45.png">
