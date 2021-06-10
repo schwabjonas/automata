@@ -50,6 +50,29 @@ Test Case Examples:
 
   Ex 1: 
   - javac Machina.java
-  - java Machina -h RMUN -e
+  - java Machina -h RMUN
+  - Produces: 
+  <img width="408" alt="Screen Shot 2021-06-10 at 3 52 43 PM" src="https://user-images.githubusercontent.com/83527286/121606942-f0e23000-ca03-11eb-8d8f-81e54c0b2990.png">
   
-    
+  Ex 2: 
+  - javac Machina.java
+  - java Machina -h SLSSS
+  - Produces:
+  
+  ![unnamed (1)](https://user-images.githubusercontent.com/83527286/121607245-8bdb0a00-ca04-11eb-9cec-20a8dcf634db.png)
+
+  Ex 3: 
+  - javac Machina.java
+  - java Machina -h SLSSU
+  - Produces:
+
+  ![Screen Shot 2021-05-31 at 5 36 36 PM](https://user-images.githubusercontent.com/83527286/121607473-f55b1880-ca04-11eb-9a96-3a4e653f5102.png)
+
+  Ex 4: 
+  - javac Machina.java
+  - java Machina -h RSNUSRL
+  - Produces:
+
+  ![unnamed (2)](https://user-images.githubusercontent.com/83527286/121607439-df4d5800-ca04-11eb-91cb-c80659e8418f.png)
+
+
