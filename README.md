@@ -3,14 +3,13 @@ Java program implementing Langton's Ant and Conway's Game of Life.
 
 Automata/Langton's Ant Background: 
 
+- Test Case Examples (Hexagonal Ant): https://docs.google.com/document/d/1LeGN1XDV3CkQ-48nOg89WBpwJroVcd_gXx5gqxBP04w/edit?usp=sharing
+
 - Langton's Ant Wikipedia: https://en.wikipedia.org/wiki/Langton%27s_ant
 
 - Online Example (Tom den Ottelander): https://tomdenottelander.com/projects/langtonsant/index.html
 
 - Online Example (btmr.de): https://brtmr.de/2015/10/05/hexadecimal-langtons-ant-2.html
-
-- Test Case Examples (Hexagonal Ant): https://docs.google.com/document/d/1LeGN1XDV3CkQ-48nOg89WBpwJroVcd_gXx5gqxBP04w/edit?usp=sharing
-
 
 To run this program you need to have java and javafx installed.
 
@@ -66,7 +65,7 @@ Test Case Examples:
   - java Machina -h SLSSU
   - Produces:
 
-  ![Screen Shot 2021-05-31 at 5 36 36 PM](https://user-images.githubusercontent.com/83527286/121607473-f55b1880-ca04-11eb-9a96-3a4e653f5102.png)
+<img width="421" alt="Screen Shot 2021-06-10 at 4 01 37 PM" src="https://user-images.githubusercontent.com/83527286/121607647-43701c00-ca05-11eb-8f43-a93fb02279d2.png">
 
   Ex 4: 
   - javac Machina.java
