@@ -1,6 +1,13 @@
 # Automata
 Java program implementing Langton's Ant and Conway's Game of Life.
 
+Ex 4: 
+  - javac Machina.java
+  - java Machina -h RSNUSRL
+  - Produces:
+
+  ![unnamed (2)](https://user-images.githubusercontent.com/83527286/121607439-df4d5800-ca04-11eb-91cb-c80659e8418f.png)
+
 Automata/Langton's Ant Background: 
 
 - Test Case Examples (Hexagonal Ant): https://docs.google.com/document/d/1LeGN1XDV3CkQ-48nOg89WBpwJroVcd_gXx5gqxBP04w/edit?usp=sharing
@@ -66,12 +73,3 @@ Test Case Examples:
   - Produces:
 
 <img width="421" alt="Screen Shot 2021-06-10 at 4 01 37 PM" src="https://user-images.githubusercontent.com/83527286/121607647-43701c00-ca05-11eb-8f43-a93fb02279d2.png">
-
-  Ex 4: 
-  - javac Machina.java
-  - java Machina -h RSNUSRL
-  - Produces:
-
-  ![unnamed (2)](https://user-images.githubusercontent.com/83527286/121607439-df4d5800-ca04-11eb-91cb-c80659e8418f.png)
-
-
