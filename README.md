@@ -1,5 +1,15 @@
-# automata
+# Automata
 Java program implementing Langton's Ant and Conway's Game of Life.
+
+Automata/Langton's Ant Background: 
+
+Langton's Ant Wikipedia: https://en.wikipedia.org/wiki/Langton%27s_ant
+
+Online Example (Tom den Ottelander): https://tomdenottelander.com/projects/langtonsant/index.html
+
+Online Example (btmr.de): https://brtmr.de/2015/10/05/hexadecimal-langtons-ant-2.html
+
+Test Case Examples (Hexagonal Ant): https://docs.google.com/document/d/1LeGN1XDV3CkQ-48nOg89WBpwJroVcd_gXx5gqxBP04w/edit?usp=sharing
 
 
 To run this program you need to have java and javafx installed.
@@ -40,3 +50,11 @@ Types of ants:
   -g Creates green ant on square grid.
   
   -h Creates black ant on hexagonal grid. Requires rotational string argument after.
+  
+Test Case Examples:
+
+  Ex 1: 
+  javac Machina.java
+  java Machina -h RMUN -e
+  
+    
